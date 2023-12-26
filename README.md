@@ -7,3 +7,5 @@
 - **esx_textui**
 
 Now your scripts are more efficient and user-friendly. Explore the enhanced features and elevate your ESX experience!
+## Install
+ - Just delete the old resources and add these
